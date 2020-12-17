@@ -20,10 +20,17 @@
 - [ ] Informar Dados de Refeição
 - [ ] Consultar Dados de Refeição do Participante
 ## Financeiro
+- [ ] Manter Serviço
+- [ ] Definir Preço do Serviço
+- [ ] Criar Promoções
+- [ ] Efetuar Pagamento do Desafio
 ## Manutenção do Sistema
 - [ ] Obter Logs da Aplicação
 - [ ] Filtrar Logs
 ## Rede Social
+- [ ] Encontrar Outros Participantes
+## Gamification
+- [ ] Pontuar Desafio
 
 # Backlog
 * Cadastrar Participante
